@@ -1,4 +1,5 @@
-1.pkg upgrade&update
+1.pkg upgrade
+2.pkg update
 2.pkg install python2
 3.pkg install git
 4.git clone https://github.com/purnomotamvanz01/purnomotamvanz
