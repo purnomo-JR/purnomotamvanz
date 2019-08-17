@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
+import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, cookielib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
 from requests.exceptions import ConnectionError
